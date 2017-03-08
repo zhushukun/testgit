@@ -1,0 +1,120 @@
+﻿.base_inner {
+				width: 1200px;
+				margin: 0 auto;		
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+
+/*header区*/
+.header{
+	height: 549px;
+	min-width: 1200px;
+	background-image:url(../images/banner1.jpg);
+	background-size: 1920px 549px;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.header_inner{
+	position: relative;
+	height: 549px;width: 1200px;
+}
+.apply_btn{
+	position: absolute;
+	left: 515px;
+	top:372px
+}
+
+/*banner区*/
+.banner{
+	height: 628px;
+}
+.condition{
+	padding: 102px 0 0 415px;
+}
+.pic_l,.pic_r{
+	padding-top: 63px;
+}
+.pic_l{
+	margin-left: 29px;
+	position: relative;
+}
+.pic_r{
+	margin-left: 91px;
+	position: relative;
+}
+
+.wenzi1{
+	position: absolute;
+	top: 188px;
+	left: 183px;
+    height: 134px;
+    width: 134px;
+    border-radius: 67px;
+    background-color: #fff;
+    text-align: center;
+    line-height: 134px;
+    font-size: 27px;
+    color: #6a6a6a;
+}
+.wenzi2{
+	position: absolute;
+	top: 188px;
+	left: 204px;
+    height: 95px;
+    width: 134px;
+    border-radius: 67px;
+    background-color: #fff;
+    text-align: center;
+    line-height: 30px;
+    font-size: 27px;
+    color: #6a6a6a;
+    padding-top: 39px;
+}
+/*container1*/
+.container1{
+	height: 671px;
+}
+.modle,.flow{
+	padding-left: 408px;
+	height: 32px;
+}
+.jieshao{
+	width: 265px;
+	height: 545px;
+	margin-top: 93px;
+	text-align: center;
+}
+
+.jieshao:nth-child(2){
+	margin-left: 97px;
+}
+.jieshao:nth-child(3){
+	margin: 93px 94px 0 94px;
+}
+.jieshao p{
+	font-size: 15px;
+	color:#a4a4a4;
+	margin-top: 37px;
+}
+
+
+/*container_2*/
+.container_2{
+	height: 274px;
+}
+.jiantou{
+	padding: 57px 0 0 3px;
+}
+
+
+/*footer*/
+.footer{
+	height: 157px;
+}
+.jionus{
+	padding-left: 452px;
+}

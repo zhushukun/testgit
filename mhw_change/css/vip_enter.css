@@ -1,0 +1,80 @@
+
+.enter_main {
+	min-width: 1200px;
+	height: 500px;
+	background:url(../img/enter/vip_enter.png) 50% 0 no-repeat;
+}
+
+.enter_main .inenter_main {
+	width: 1200px;
+	height: 100%;
+	margin: 0 auto;
+	position: relative;
+}
+
+.enter_main .inenter_main .r_formbox {
+	width: 503px;
+	height: 395px;
+	background-color: #fff;
+	position: absolute;
+	right: 20px;
+	bottom: 50px;
+}
+
+.titl_box {
+	width: 100%;
+	height: 82px;
+	color: #3b3b3b;
+	font-size: 28px;
+	line-height: 82px;
+	text-align: center;
+}
+
+.enter_main .inenter_main .r_formbox .formenter {
+	margin: 0 40px;
+	overflow: hidden;
+	padding-top: 4px;
+}
+
+.enter_main .inenter_main .r_formbox .formenter .inputbox {
+	height: 55px;
+	border: 1px solid #e5e5e5;
+	border-bottom: none;
+}
+
+.enter_main .inenter_main .r_formbox .formenter .inputbox .text_l {
+	width: 123px;
+	height: 100%;
+	float: left;
+}
+.enter_main .inenter_main .r_formbox .formenter .inputbox .text_l>span{
+	display: block;width: 100%;height: 36px;
+	border-right: 1px solid #e7e7e7;
+	text-align: center;
+	line-height: 36px;
+	margin-top: 11px;
+	font-size: 17px;
+	color: #888888;
+}
+.enter_main .inenter_main .r_formbox .formenter .inputbox>.inp {
+	float: left;
+	width: 281px;
+	height: 100%;
+	border: none;
+	margin-left: 2px;
+	padding-left: 15px;
+}
+.btnbox{
+	text-align: center;
+}
+.btnbox #zx{
+	width: 120px;height: 36px;
+	border-radius: 4px;
+	text-align: center;
+	line-height: 36px;
+	color: #fff;
+	font-size: 20px;
+	cursor: pointer;
+	border: none;margin-top: 20px;
+	background-color: #eb5151;
+}

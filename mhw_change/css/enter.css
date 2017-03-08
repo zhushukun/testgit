@@ -1,0 +1,171 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.enter_top {
+	min-width: 1400px;
+	height: 102px;
+	background-color: #2b2b2b;
+}
+
+.enter_top .inenter_top {
+	width: 1400px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.enter_top .inenter_top img {
+	margin-top: 25px;
+}
+
+.enter_main {
+	min-width: 1400px;
+	height: 698px;
+	background-color: #f9f7f4;
+}
+
+.enter_main .inenter_main {
+	width: 1400px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.enter_main .inenter_main .l_imgbox {
+	width: 871px;
+	height: 492px;
+	float: left;
+	margin-top: 27px;
+}
+
+.enter_main .inenter_main .r_formbox {
+	width: 437px;
+	height: 408px;
+	float: left;
+	margin-top: 57px;
+	background-color: #fff;
+	padding-bottom: 6px;
+}
+
+.titl_box {
+	width: 100%;
+	height: 60px;
+	background-color: #2b2b2b;
+	color: #fff;
+	font-size: 27px;
+	line-height: 60px;
+	text-align: center;
+}
+
+.enter_main .inenter_main .r_formbox .formenter {
+	margin: 0 39px;
+	overflow: hidden;
+	padding-top: 4px;
+}
+
+.enter_main .inenter_main .r_formbox .formenter .inputbox {
+	width: 340px;
+	height: 46px;
+	border: 1px solid #e5e5e5;
+	margin-top: 20px;
+}
+
+.enter_main .inenter_main .r_formbox .formenter .inputboxt {
+	width: 182px;
+	height: 46px;
+	border: 1px solid #e5e5e5;
+	margin-top: 20px;
+	display: inline-block;
+	float: left;
+}
+
+.enter_main .inenter_main .r_formbox .formenter .inputboxt img {
+	margin: 5px 0 0 11px;
+	padding-right: 11px;
+	border-right: 1px solid #f6f6f6;
+}
+
+.enter_main .inenter_main .r_formbox .formenter .inputbox img {
+	margin: 5px 0 0 11px;
+	padding-right: 11px;
+	border-right: 1px solid #f6f6f6;
+	float: left;
+}
+
+.enter_main .inenter_main .r_formbox .formenter .inp {
+	height: 46px;
+	width: 264px;
+	border: none;
+	vertical-align: top;
+	padding-left: 14px;
+	font-size: 16px;
+	color: #959595;
+	float: left;
+}
+.enter_main .inenter_main .r_formbox .formenter .inpl {
+	height: 46px;
+	width: 106px;
+	border: none;
+	vertical-align: top;
+	padding-left: 10px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color: #959595;
+}
+.enter_main .inenter_main .r_formbox .formenter .checkbox{
+	margin: 18px 0 18px 0;
+}
+.enter_main .inenter_main .r_formbox .formenter .checkbox>span{
+	color: #959595;
+}
+.enter_main .inenter_main .r_formbox .formenter .checkbox .checkinfo {
+	vertical-align: middle;
+	position: relative;
+	left: 0;top: -1px;
+}
+.rinputcl {
+	height: 48px;
+	width: 136px;
+	display: inline-block;
+	float: left;
+	margin:20px 0 0 22px;
+}
+.clickyzm {
+	height: 48px;
+	width: 136px;
+	vertical-align: top;
+	border: none;
+	text-align: left;
+	padding-left: 7px;
+	font-size: 18px;
+}
+#sub {
+	background-color: #f08519;
+	color: #fff;
+	height: 48px;width: 342px;
+	line-height: 48px;
+	text-align: center;
+	border: none;
+	border-radius: 5px;
+	font-size: 20px;
+}
+.subbox {
+	height: 48px;width: 342px;
+}
+.footbox{
+	width: 342px;
+	margin-top: 7px;
+}
+.footbox .a1{
+	color: #f08519;
+	font-size: 14px;
+	float: left;
+}
+.footbox .a1>img{
+	vertical-align: middle;
+}
+.footbox .a2{
+	color: #959595;
+	font-size: 14px;
+	float: right;
+}

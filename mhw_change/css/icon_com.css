@@ -1,0 +1,48 @@
+.top_banner{
+	height: 549px;
+	min-width: 1200px;
+	background-image: url(../img/gxs/banner.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 1920px 500px;
+}
+.main_box{
+	width: 100%;
+}
+.inmain_box{
+	width: 1200px;min-height: 300px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.tabboxclick{
+	width: 1200px;height: 60px;
+	background-color: #7d7c7c;
+	color: #fff;
+	font-size: 26px;
+	text-align: center;
+	line-height: 60px;
+	margin: 69px 0 60px 0;
+}
+.tabboxclick li{
+	width: 25%;
+	float: left;
+}
+.infobox{
+	width: 1200px;
+	padding-bottom: 80px;
+}
+.infobox .pub{
+	display: none;
+	
+}
+.infobox .pub>table{
+	width: 1200px;
+	
+}
+.infobox .pub>table td{
+	width: 200px;
+	height: 133px;
+}
+.infobox .pub>table td img{
+	vertical-align: top;
+}

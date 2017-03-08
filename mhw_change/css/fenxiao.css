@@ -1,0 +1,157 @@
+﻿.base_inner {
+				width: 1200px;
+				margin: 0 auto;		
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+
+
+
+/*header区*/
+.header{
+	height: 549px;min-width: 1200px;
+	background-image:url(../images/tu.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 1920px 549px;
+}
+.header_inner{
+	position: relative;
+	height: 549px;
+}
+.apply_btn{
+	position: absolute;
+	left: 524px;
+	top:372px
+}
+	
+	
+
+/*.container_1*/
+.container_1{
+	height: 586px;
+	background-color: #fff;
+	min-width: 1200px;
+}
+.round{
+	margin-top: 86px;
+}
+.r1{
+	margin-left: 72px;
+}
+.r2{
+	margin: 86px 265px 0 265px;
+}
+.condition{
+	margin: 141px 0 0 417px;
+}
+
+
+
+/*.container_2*/
+.container_2{
+	height: 498px;
+	background-color: #fbfaf8;
+	min-width: 1200px;
+}
+.container_2_l{
+    padding: 140px 0 0 150px;
+
+}
+.container_2_l li,.container_3_r li,.container_4_l li{
+	font-size: 25px;
+	color: #4e4e4e;
+	line-height: 45px;
+}
+
+.container_2_r{
+	margin: 97px 0 0 166px;
+}
+
+
+
+/*.container_3*/
+.container_3{
+	height: 504px;
+	background-color: #fff;
+	min-width: 1200px;
+}
+.container_3_l{
+	padding: 139px 0 0 116px;
+}
+.container_3_r{
+	margin: 154px 0 0 164px;
+}
+
+
+
+/*.container_4*/
+.container_4{
+	height: 498px;
+	background-color: #fbfaf8;
+	min-width: 1200px;
+}
+.container_4_l{
+    padding: 197px 0 0 208px;
+}
+.container_4_r{
+	margin: 126px 0 0 317px;
+}
+
+
+
+/*.container_5*/
+.container_5{
+	height: 420px;
+	background-color: #fff;
+	min-width: 1200px;
+}
+.jionus{
+	padding: 94px 0 0 374px;
+}
+
+.line:nth-child(2){
+	margin-left: 339px;
+	
+}
+.round_b{
+	margin: 55px 64px 0 64px;
+}
+.round_b:first-child{
+	margin-left: 96px;
+}
+
+
+
+/*.foot_t*/
+.foot_t{
+	height: 388px;
+	background-color: #464646;
+	border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+	min-width: 1200px;
+}
+.pic{
+	margin-left: 465px;
+	padding-top: 42px;
+}
+.pic2{
+	margin: 70px 0 0 25px;
+}
+
+
+
+/*.foot_b*/
+.foot_b{
+	height: 229px;
+	background-color: #fff;
+	min-width: 1200px;
+}
+.skip{
+	display: block;
+	padding: 72px 0 0 420px;
+}
